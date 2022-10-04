@@ -1,0 +1,53 @@
+body{font-family: 'Roboto', sans-serif;}
+#Contendor{background-color: #eaeaea }
+
+header{
+margin: auto;
+padding: 15px;
+background-color: white !important;
+margin
+}
+h1{width: 600px;
+margin:auto;
+font-weight: bold;
+}
+
+#articulo{
+    width: 600px;
+    
+    margin: auto;
+    margin-top: 50px;
+    
+    
+}
+
+#Encabezado{
+    display: flex;
+    justify-content: space-between;
+    padding: 7px;
+   
+}
+
+#fecha{
+opacity: 20%;
+margin: 5px;
+}
+#texto{
+margin: 5px;
+}
+
+
+
+#Texto p{
+ padding: 15px;
+margin: 0px;
+}
+#Texto p a{
+    color:black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#Encabezado,#Imagen,#Texto{
+    background-color: white;
+}
